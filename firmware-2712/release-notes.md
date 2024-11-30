@@ -7,3 +7,8 @@
   to drain the TX FIFO and retrieve the state of both FIFOs. It also
   fixes the CAN_ADD_PROGRAM implementation, which was fatally broken.
 * network-install - Update the UI to display the board model / variant.
+
+## 2024-12-01: (test of not listing other fw versions)
+
+* testing
+* testing
